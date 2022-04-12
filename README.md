@@ -26,9 +26,9 @@
 
 ● 프로젝트 구조 및 사용 데이터셋의 구조도(연관도)
 
-![Untitled](%5B%E1%84%87%E1%85%AE%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8F%E1%85%A2%E1%86%B7%20b6dc1/Untitled.png)
+![Untitled](imgs/Untitled.png)
 
-![Untitled](%5B%E1%84%87%E1%85%AE%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3%E1%84%8F%E1%85%A2%E1%86%B7%20b6dc1/Untitled%201.png)
+![Untitled1](imgs/Untitled1.png)
 
 - 데이터 개요
     - 전체 사람 수: 4,500명
